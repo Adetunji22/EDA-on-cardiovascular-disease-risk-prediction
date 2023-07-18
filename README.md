@@ -54,6 +54,6 @@ assess an individual's likelihood of developing a cardiovascular disease  based 
 3. About 20% of the respondents are battling with depression with 13.2% being male and 6.8% female (men are more likely to be depressed than women)
 
 ### Numerical Analysis
-1. I performed a correlation analysis on all numerical variables and the only strong positive correlation is between the Bod mass index and the Weight with a correlation value of 0.86.
+1. I performed a correlation analysis on all numerical variables and the only strong positive correlation is between the Body mass index and the Weight with a correlation value of 0.86.
 
-click [Here](https://www.kaggle.com/code/adetunjidaniel/eda-of-cardiovascular-disease-risk-prediction) to access the full notebook showing the process, codes and vsualizations of this project.
+click [Here](https://www.kaggle.com/code/adetunjidaniel/eda-of-cardiovascular-disease-risk-prediction) to access the full notebook showing the process, codes and visualizations of this project.
